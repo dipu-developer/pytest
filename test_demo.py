@@ -6,6 +6,5 @@ def test_login():
 def test_logout():
     print("this is out")
 
-@pytest.mark.sanity
 def test_demo():
     print("this is ok")
